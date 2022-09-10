@@ -478,7 +478,11 @@ margin-right:-400px;
     width: 100%;
     flex-flow: column;
   }
-
+  
+  .header .logo img{
+    width: 220px;
+  }
+  
   .header .navbar ul li{
     margin:1rem 0;
   }
